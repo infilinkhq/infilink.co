@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "http://localhost:1313/"
+baseURL = "https://infilink.co"
 title = "Infilink"
 theme = "meghna-hugo"
 themesDir = "./themes"
