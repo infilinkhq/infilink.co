@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/bg-banner.webp"
+  bg_image : "images/backgrounds/bg-banner.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "INFILINK ACADEMY"
+  content : "**Promote Industrial IOT Adoption Through Training & Courses**"
+  button:
+    enable : true
+    label : "Explore Us"
+    link : "#services"

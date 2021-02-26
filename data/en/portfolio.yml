@@ -1,0 +1,44 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Our Services
+  portfolio_item :
+    # portfolio item loop
+    - name : Hiker
+      image : images/portfolio/pf-hiker.jpg
+      image_webp : images/portfolio/pf-hiker.webp
+      categories : ["Courses"]
+      content : Basic introduction of IOT with ready device and open source program.
+      link : "https://themefisher.com"
+
+    # portfolio item loop
+    - name : Pilot
+      image : images/portfolio/pf-pilot.jpg
+      image_webp : images/portfolio/pf-pilot.webp
+      categories : ["Courses"]
+      content : IOT Application using industrial grade hardware, dedicated network and project application.
+      link : ""
+
+    # portfolio item loop
+    - name : Astronaut
+      image : images/portfolio/pf-astronaut.jpg
+      image_webp : images/portfolio/pf-astronaut.webp
+      categories : ["Courses"]
+      content : Details on the whole framework, system process and design own hardware for commercial project.
+      link : "#"
+
+    # portfolio item loop
+    - name : Infi-AW
+      image : images/portfolio/pf-infiaw.jpg
+      image_webp : images/portfolio/pf-infiaw.webp
+      categories : ["Hardware"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+
+    # portfolio item loop
+    - name : Consult
+      image : images/portfolio/pf-consult.jpg
+      image_webp : images/portfolio/pf-consult.webp
+      categories : ["Consultation"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"

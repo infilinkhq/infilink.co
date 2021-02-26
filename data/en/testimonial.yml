@@ -1,0 +1,25 @@
+################################# Testimonial #########################
+testimonial:
+  enable : true
+  bg_image : images/backgrounds/bg-note.jpg
+  bg_image_webp : images/backgrounds/bg-note.webp
+  testimonial_item :
+    # testimonial item loop
+    - name : KC Lim
+      image : images/client/Testimonial1.jpg
+      image_webp : images/client/Testimonial1.webp
+      date : Research Assistant
+      content : The learning courses are great, informative and easy to follow. This is my first time set up my own IOT application. Recommended for those who interested in IOT.
+
+    # testimonial item loop
+    - name : Diana
+      image : images/client/Testimonial2.jpg
+      image_webp : images/client/Testimonial2.webp
+      date : Graduate Student
+      content : The instructor are very knowledgeadble and professional, giving 1-1 tutorial during the practical activity until completion. I will definitely able to apply IOT in my master project.
+    # testimonial item loop
+    - name : Khairul
+      image : images/client/Testimonial3.jpg
+      image_webp : images/client/Testimonial3.webp
+      date : Lecturer
+      content : This learning course is one of the course that I have been looking for quite some times. It is crucial for me as teacher to learn and catch up with latest technology update. I'm glad to have Infilink Academy as local learning course provider.

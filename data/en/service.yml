@@ -1,0 +1,19 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Our Edge
+  service_item :
+    # service item loop
+    - name : Courses
+      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      content : We conduct learning courses specialised for IOT application for university, researcher and industry player.
+
+    # service item loop
+    - name : Hardware
+      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      content : We provide necessary tools for the courses and also provide IOT device ready for your projects.
+
+    # service item loop
+    - name : Consultation
+      icon : ti-support # themify icon pack : https://themify.me/themify-icons
+      content : We provide consultation services subjected to hardware, sensors and network for your IOT adoption journey.

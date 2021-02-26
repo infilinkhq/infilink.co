@@ -1,0 +1,20 @@
+################################# funfacts ##################################
+funfacts:
+  enable : false
+  bg_image : "images/backgrounds/bg-gauge.jpg"
+  bg_image_webp : "images/backgrounds/bg-gauge.webp"
+  counter_item:
+    # counter item loop
+    - title : "Established Year"
+      icon : "ti-calendar" # themify icon pack : https://themify.me/themify-icons
+      count : "2020"
+
+    # counter item loop
+    - title : "Target Sites"
+      icon : "ti-map-alt" # themify icon pack : https://themify.me/themify-icons
+      count : "500"
+
+    # counter item loop
+    - title : "Target POE"
+      icon : "ti-widget" # themify icon pack : https://themify.me/themify-icons
+      count : "750"

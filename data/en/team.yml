@@ -1,0 +1,50 @@
+############################### team ############################
+team:
+  enable : true
+  title : Our Team
+  team_member :
+    # team member loop
+    - name : Khairul
+      image_webp : images/team/team-khairul.webp
+      image : images/team/team-khairul.jpg
+      designation : Co-Founder/Software Architect
+      content : Graduated from a top ten university in Japan, Keio University for bachelor and master in electrical and electronics engineering. He had an extensive experiences with a few MNC in software infrastructure,  machine learning and others. He is super nerd who loves Vim, Linux and Open Source.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/krollquink"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/khairulanuar1/"
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+          link : "https://github.com/krollquink"
+        
+    # team member loop
+    - name : Razieman
+      image_webp : images/team/team-razieman.webp
+      image : images/team/team-razieman.jpg
+      designation : Co-Founder/Business Development
+      content : Graduated from Takushoku University, Japan major in mechanical system engineering. He has sales and marketing experiences for more than five years in telecommunication, power transmission and high rise construction industry. Besides working, he likes to spend his time do editing or go to the gym.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/razieman.ibrahim/"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/razieman-ibrahim-02a6a5103/"
+        - icon : ti-comments # themify icon pack : https://themify.me/themify-icons
+          link : "https://wa.me/60134558924?text=Hi%20Infilink%20Razieman%20I%20have%20an%20inquiry"
+        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+          link : "mailto:raziemanibrahim@gmail.com"
+        
+    # team member loop
+    - name : Irsyad
+      image_webp : images/team/team-irsyad.webp
+      image : images/team/team-irsyad.jpg
+      designation : Co-Founder/Hardware Architect
+      content : Graduated from International Islamic University Malaysia, major in mechatronic engineering. He has more than three years experiences as R&D engineer for electrical and electronic products. Besides, he has sold a few mechatronic projects and had been invited as technical guest tutor for local college and university.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/profile.php?id=100000717417871"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/wan-muhammad-irsyaduddin-4ba3281b5/"
+
+
+        
+ 

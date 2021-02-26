@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-class.jpg"
+  bg_image_webp : "images/backgrounds/bg-class.webp"
+  title : "Let's Join Our Learning Course"
+  content : "Participate individually, or as a group or even arrange a session."
+  button:
+    enable : true
+    label : "JOIN NOW"
+    link : "#contact"
